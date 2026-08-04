@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("🎈hello alunos")
+st.write("Bem-vindos ao nosso aplicativo Streamlit! Aqui você pode explorar diferentes funcionalidades e interagir com os dados de maneira intuitiva. Aproveite a experiência!")
+
